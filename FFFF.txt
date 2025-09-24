@@ -1,0 +1,3 @@
+$ git log --oneline
+4172846 (HEAD -> HomeWork, origin/main, origin/HomeWork, origin/HEAD, main) Init
+ial commit
